@@ -24,8 +24,7 @@ Console.WriteLine("Total students: " + numberOfStudents);
 ### Example of `double` Usage:  
 ```csharp
 double productPrice = 25.99;
-Console.WriteLine("Product price: $" + productPrice);
-```
+Console.WriteLine("Product price: " + productPrice);
 
 ## Conclusion  
 The `int` data type is best for whole numbers where precision is not required, while `double` is better for numbers with decimal points where accuracy is important. Choosing the right data type ensures efficient memory usage and prevents unnecessary errors in calculations.  
